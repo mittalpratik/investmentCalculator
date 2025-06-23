@@ -9,7 +9,7 @@ A lightweight web app that lets you project how a lump‑sum or recurring invest
 * Real‑time chart of annual return for each year in provided "Duration"
 * Customisable interest rate, tenure, and compounding frequency
 
-## 🚀 Demo
+## 🚀 Demo : github-page: https://mittalpratik.github.io/investmentCalculator/
 
 ![image](https://github.com/user-attachments/assets/ba442b72-8450-411b-84df-b31ee2149e68)
 
